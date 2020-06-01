@@ -14,7 +14,11 @@ github_repo: "Mindzlabs.github.io"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
+<<<<<<< HEAD
 url: "https://iamsatyapati.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+url: "https://iamsatyapati.githu.io/mindzlabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> master
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
